@@ -6,5 +6,5 @@ Elements include a body, nav, sections, aside, footer, etc. organized appropriat
 
 well-formatted, easy-to-read, and commented code.
 
-User Friendly interface, including readable output, Interface is self-explaining
+User-Friendly interface, including readable output, Interface is self-explaining
 
